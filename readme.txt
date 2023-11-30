@@ -3,3 +3,5 @@ github release files should be ideally whitelisted, which is why some common thi
 are released here.
 
 - sqlite-v3.44.0
+- putty-v0.79.0
+
