@@ -5,3 +5,5 @@ are released here.
 - sqlite-v3.44.0
 - putty-v0.79.0
 - node-header-v16.20.0
+- elasticsearch-v8.17.4
+- kibana-v8.17.4
